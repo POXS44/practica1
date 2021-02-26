@@ -15,10 +15,10 @@
                 <input type="text" name="numero2" placeholder="Numero 2">
 				<br>
 
-                <input type="radio" name="operacion" value="suma"id="">Suma
-                <input type="radio" name="operacion" value="resta"id="">Resta
-                <input type="radio" name="operacion" value="multiplicacion"id="">Multiplicacion
-                <input type="radio" name="operacion" value="divicion"id="">Divicion
+                <input type="radio" name="operacion" value="suma">Suma
+                <input type="radio" name="operacion" value="resta">Resta
+                <input type="radio" name="operacion" value="multiplicacion">Multiplicacion
+                <input type="radio" name="operacion" value="divicion">Divicion
 
                 <br>
                 <input type="submit"value="Calcular">
